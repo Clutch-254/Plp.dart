@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Simple Portfolio</title>
+    </head>
+    <body>
+        <h1>Bethwel Tumaini</h1>
+        <h2>HOME</h2>
+        <p>Before you is a brief portfolio giving a few details about me and some of the projects I have worked on.</p>
+        <a href="Home">Visit home</a>
+
+        <h3>ABOUT</h3>
+        <p>I am an upcoming developer and aspiring engineer, I enjoy coding and developing programs. My end goal is to rise to the ranks of cyber security engineer and game developer.</p>
+        <a href="About">Visit about</a>
+
+        <h4>PROJECTS/h4>
+        <li>Comic Book Studio</li>
+        <li>Simple User Prompt (Python)</li>
+        <li>simple Portfolio</li>
+        <a href="Projects">Visit projects</a>
+    </body>
+
+</html>
